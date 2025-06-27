@@ -1,0 +1,14 @@
+---
+title: "Interactive Python with Binder"
+format: html
+code-links: posit connect
+execute:
+  echo: true
+---
+
+## Hello posit
+
+```{python}
+import numpy as np
+print("NumPy 버전:", np.__version__)
+```

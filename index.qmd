@@ -1,7 +1,6 @@
 ---
 title: "Interactive Python with Binder"
 format: html
-code-links: posit connect
 execute:
   echo: true
 ---
